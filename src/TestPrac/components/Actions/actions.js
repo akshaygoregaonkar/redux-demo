@@ -1,0 +1,9 @@
+const Action={
+    
+    ADD_COMMENTS:'ADD_COMMENTS',
+    UPDATE_COMMENTS:'UPDATE_COMMENTS',
+    ADD_USER_TO_LIST:'ADD_USER_TO_LIST',
+    DELETE_USER:'DELETE_USER'
+}
+
+export default  Action 
