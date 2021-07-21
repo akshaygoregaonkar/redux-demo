@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
     {/* <Dashboard/> */}
-    {/* <TestDashboard/> */}
+    <TestDashboard/>
     {/* <UsingHooks/> */}
-    <FormValidation/>
+    {/* <FormValidation/> */}
     </div>
   );
 }
